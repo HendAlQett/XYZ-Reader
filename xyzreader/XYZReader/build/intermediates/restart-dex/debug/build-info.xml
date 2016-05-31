@@ -2,58 +2,31 @@
 <instant-run
     abi="x86"
     api-level="22"
-    density="xxhdpi"
+    density="tvdpi"
     format="7"
-    timestamp="211212817069453"
-    verifier="COMPATIBLE" >
+    timestamp="237024194957146" >
 
     <task
         name="javac"
-        duration="1330" />
+        duration="390" />
     <task
         name="instant-run-dex"
-        duration="1060" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="45" />
+        duration="143" />
     <task
         name="verifier"
-        duration="4" />
+        duration="42" />
 
     <artifact
-        location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="209070185526082" >
+    <build timestamp="237024194957146" >
         <artifact
             location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="211103286969977"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="211212817069453"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

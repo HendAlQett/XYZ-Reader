@@ -1,2 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_fec05db4435d5a42d35c1b35555564d991efee11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_3f9f284906bc13541620d9abec5bd58c2c616ffc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_f77bc1806e9c2e832885a74e65b408cdfae0ce06/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_a403a7ae684480b7cd386f7694ad20355726b3bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="25703f943780a28a495789b3bda41216f46dd91f">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b3241f98644818ec0c49cb40bdab212934b92b27/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_26ab26d5472f88e5dcc6bec34952b7914fd9e447/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_4b40937f3ea38b1640b8f98aba86458c9a83ef36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_0e18e866543f4a80841a44757d22c37a8db77749/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_648bd10311c5878439e5e5784882d633b4521340/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_abdc6a99e0b1e304346b6562fb6ef47c0c748d67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_584c8b1b92d4f7197508c6c21cf86b642f48f4e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_135628c8e69f83c95e8d4eb936e24baa24350ba4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b3fe67caa01e1651f17f02aa303c6874fd1edd51">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2ef96a9c1ce761750a0828a615f8e3ac17fb2f18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c6d9e95ec5a70824bfaa1f8eeaed2c8ac7fb6b3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_fc09f88d2209bd31ca6012eaf8d07b9752d6fed9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_94e43f9a476c092ddb2309104433f2d22b3709f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.4.0_08a64c5a7e0016de2cab07ad6f0f216f155cd2e5/classes.dex" />
+    </item>
+
+</items>
