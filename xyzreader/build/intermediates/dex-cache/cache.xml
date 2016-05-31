@@ -33,7 +33,7 @@
         jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="25703f943780a28a495789b3bda41216f46dd91f">
+        sha1="632518a0b8218392b8deab87bbcdb4fb97f26fc9">
         <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b3241f98644818ec0c49cb40bdab212934b92b27/classes.dex" />
     </item>
     <item
@@ -89,7 +89,7 @@
         jar="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="b3fe67caa01e1651f17f02aa303c6874fd1edd51">
+        sha1="9168f6d79f4b0066ff2804b0718fccd37f55edac">
         <dex dex="/Users/hend/Documents/Android Projects/Udacity Nanodegree/Git Repos/XYZ-Reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2ef96a9c1ce761750a0828a615f8e3ac17fb2f18/classes.dex" />
     </item>
     <item
